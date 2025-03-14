@@ -1,0 +1,30 @@
+{
+  "site": {
+    "title": "Pengrafic",
+    "base_url": "https://astro-starter.alfadev.io",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.ico",
+    "logo": "/images/logo.png",
+    "logo_width": "47",
+    "logo_height": "47",
+    "logo_text": "Pengrafic"
+  },
+
+  "params": {
+    "footer_description": "Saludos cool things, one line of code (and a lot of coffee) at a time. Got questions? Or just bored? Reach out!",
+    "email": "djvamps2007@gmail.com",
+    "location": "Somewhere on Earth, where the Wi-Fi is decent and the coffee is strong.",
+    "phone": "+051 992870423 (but let's be honest, email is faster)",
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2025 proudly crafted by [Dalopeza](https://github.com/djvamps)"
+},
+
+  "metadata": {
+    "meta_author": "alfadev",
+    "meta_image": "/images/logo.png",
+    "meta_description": "alfadev-astro-starter is a starter template for Astro, the modern static site generator for the modern web.",
+    "meta_keywords": ["astro", "Astro Starter", "alfadev", "Diego Alfaro Sáez", "static site generator", "modern web", "astro template"],
+    "meta_application_name": "alfadev-astro-starter"
+  }
+}
