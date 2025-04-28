@@ -15,7 +15,7 @@ banner:
 
 sections:
   - title: Tired of writing the same code over and over again?
-    content: "We've all been there... Setting up the same SEO, theming, and responsive layout boilerplate again and again. Say goodbye to that! <b class='text-accent'>alfadev-astro-starter</b> lets you jump straight into creating, skipping the repetitive groundwork."
+    content: "We've all been there... Setting up the same SEO, theming, and responsive layout boilerplate again and again. Say goodbye to that! <b class='text-accent'>Pengrafic - Agencia de Marketing</b> lets you jump straight into creating, skipping the repetitive groundwork."
     image: /images/tired-of-writing.webp
 
   - title: This is not a library
